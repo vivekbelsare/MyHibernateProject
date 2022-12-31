@@ -1,2 +1,1 @@
-# MyHibernateProject
 # REST API Project
